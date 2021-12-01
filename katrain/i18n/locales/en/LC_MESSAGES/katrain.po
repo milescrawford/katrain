@@ -481,7 +481,7 @@ msgid "teacher settings"
 msgstr "Edit Teaching/Analysis Settings"
 
 msgid "point loss threshold"
-msgstr "Point loss greater than"
+msgstr "Point loss greater than (Jump-to-mistake stops at orange)"
 
 msgid "num undos"
 msgstr ""
